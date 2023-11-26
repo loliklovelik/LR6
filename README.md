@@ -62,7 +62,7 @@ git commit -m"merger"
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/11.png)
 
 Файл до разрешения конфликта \
-![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/16.png)
+![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/18.png)
 
 Конфликт возник из-за того, что файлы содержали в себе противоречащую информацию, он был решен путём удаления лишних строк в файле.
 
