@@ -8,7 +8,7 @@
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/2.png)
 
 ### 3. Установка Git
-![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/3.png)
+![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/3.jpg)
 
 ### 4. Настройка клиента Git
 ```sh
@@ -35,6 +35,7 @@ git log
 ```
 Ветка master \
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/7.png)
+
 Ветка branch1 \
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/6.png)
 ### 8. Последние изменения
@@ -45,6 +46,7 @@ git show
 ```
 Ветка master \
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/9.png)
+
 Ветка branch1 \
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/10.png)
 
@@ -60,11 +62,12 @@ git commit -m"merger"
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/11.png)
 
 Файл до разрешения конфликта \
+![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/16.png)
 
 Конфликт возник из-за того, что файлы содержали в себе две противоречущие информации. Конфликт был решен путём удаления лишних строк в файле.
 
 Файл после разрешения конфликта \
-
+![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/17.png)
 
 ### 10. Несколько изменений
 ```sh
@@ -93,6 +96,7 @@ git log --pretty=format:'%h %cd | %an | %s' --date=format:'%F %R'
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/15.png)
 ### 13. Загрузка изменений в удалённый репозиторий
 ```sh
+git push
 git push origin otchet
 ```
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/16.png)
