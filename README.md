@@ -37,7 +37,7 @@ git log
 ![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/7.png)
 
 Ветка branch1 \
-![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/6.png)
+![изображение](https://github.com/loliklovelik/LR6/blob/otchet/photos/8.png)
 ### 8. Последние изменения
 
 ```sh
