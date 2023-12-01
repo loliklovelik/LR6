@@ -56,6 +56,7 @@ git show
 git merge branch1
 git add .
 git commit -m"merger"
+git branch -d branch1
 
 ```
 Слияние \
